@@ -1,0 +1,29 @@
+body {
+    font-family: Segoe UI;
+}
+
+#chat {
+    width:100%;
+    border:1px solid;
+    height:400px;
+    padding:5px;
+    font-size:12px;
+    overflow: auto;
+}
+
+.content {
+    width: 900px ;
+    margin-left: auto ;
+    margin-right: auto ;
+}
+
+.users {
+    width:100%;
+    padding:5px;
+}
+
+.chatWindow
+{
+    float:left;
+    width: 600px;
+}
